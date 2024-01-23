@@ -86,3 +86,11 @@ go mod download
 - Возраст: [Agify API](https://api.agify.io/)
 - Пол: [Genderize API](https://api.genderize.io/)
 - Национальность: [Nationalize API](https://api.nationalize.io/)
+
+## Планы на будущее
+
+- Покрытие кода тестами.
+- Добавление Dockerfile для удобного развертывания и запуска приложения в контейнере.
+- Захостить сервис на бесплатном сервере для обеспечения общего доступа к API.
+
+
